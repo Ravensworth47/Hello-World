@@ -1,2 +1,3 @@
 # Hello-World
-Just another Repository
+Hello I like using Azure to code and program.
+WEll done is how I like my steak
